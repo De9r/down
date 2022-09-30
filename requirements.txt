@@ -1,0 +1,9 @@
+#virus
+telebot
+requests
+smdo
+download
+os
+time
+sleep
+
