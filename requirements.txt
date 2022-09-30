@@ -1,9 +1,12 @@
 #virus
-telebot
+
+cryptg
+
+asyncio
+
+telegraph
+
 requests
-smdo
-download
-os
-time
-sleep
+
+pyrogram
 
